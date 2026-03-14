@@ -18,8 +18,9 @@ Customers chat naturally → AI handles queries or takes orders → Google Sheet
 ## Project Blueprints (3 files)
 
 1. **UniCafe.blueprint.json** → Main Telegram webhook + AI Agent (entry point)
-2. **Order Taking.blueprint.json** → Sub-scenario that handles data collection, Sheets, Email & return confirmation
-3. **cafe Agents.blueprint.json** → Advanced AI Agent with two tools (Order Taking + Knowledge Base)
+![UniCafe agent]("https://github.com/Muinam/UniCafe-AI-Telegram-Order-Bot/blob/1fa23d63db5e6d6d4e0cde3f65930fb1b0e47799/uniag.png")
+3. **Order Taking.blueprint.json** → Sub-scenario that handles data collection, Sheets, Email & return confirmation
+4. **cafe Agents.blueprint.json** → Advanced AI Agent with two tools (Order Taking + Knowledge Base)
 
 ## How It Works (Flow)
 
