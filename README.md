@@ -49,7 +49,9 @@ Customers chat naturally → AI handles queries or takes orders → Google Sheet
 6. Turn on the main scenario
 
 ## ScreenShot
-![UniCafe agent]("https://github.com/Muinam/UniCafe-AI-Telegram-OrderBot/blob/1fa23d63db5e6d6d4e0cde3f65930fb1b0e47799/uniag.png")
+![UniCafe agent](uniag.png)
+![UniCafe ordertaking flow]()
+![UniCafe telegrambot]()
 
 ## Future Ready
 
